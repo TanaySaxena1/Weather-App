@@ -1,2 +1,1 @@
-# Weather-App
-Provides weather of desired location
+# WEATHER-APP
